@@ -6,9 +6,9 @@
 	<table class="table" id="books">
 		<thead>
 			<tr>
-				<th>Judul Buk</th>
-				<th>Penulis</th>
-				<th>Penerbit</th>
+				<th>Nama</th>
+				<th>Category</th>
+				<th>Harga</th>
 			</tr>
 		</thead>
 	</table>
